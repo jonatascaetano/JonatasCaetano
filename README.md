@@ -41,6 +41,20 @@ Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-         
-          
-          
+  
+
+## 🚧 Projeto
+
+ Pokedéx desenvolvida em flutter com consumo de Api usando Dio, Backend usando Firebase e gerência de estado usando GetX  
+ clique [aqui](https://github.com/jonatascaetano/Pokedex) para conhecer este projeto
+ 
+ ## 🖼️ Imagens do Aplicativo
+
+<img src="https://user-images.githubusercontent.com/59484665/191779822-fe62d095-8469-4576-9968-7f07e11aabd3.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191779850-4be8eba3-2218-4d81-bf9f-0c44c61a1c0f.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191779893-dc81d281-4f13-4e04-a427-380f050ab31e.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191779931-cb09e3b3-3001-4bda-bc3b-249292cc94c9.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191779976-3b9e3ebc-2a6d-4901-983f-8dcc31d6b200.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191780026-c144992e-6039-44ac-ba7b-0f87e99f807a.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191780058-28993ffb-5980-4a1f-9b04-01bdd6a206f8.png" width="200">
+<img src="https://user-images.githubusercontent.com/59484665/191781833-038f4907-95ed-4297-b4e2-a0d65558354b.png" width="200">
