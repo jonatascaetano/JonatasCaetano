@@ -6,7 +6,7 @@ Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em
 <div style="display: inline_block">
   <a href = "https://api.whatsapp.com/send?phone=5514991648334&text=Ol%C3%A1%2C%20Jonatas" target="_blank"> <img  alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jonatas.calves@gmail.com"> <img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatas-c-29a64b227" target="_blank"> <img  alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonatascaetano" target="_blank"> <img  alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://play.google.com/store/apps/developer?id=jonatas" target="_blank"> <img  alt="google play"  src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
 </div>  
 
