@@ -6,7 +6,7 @@ Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em
 <div style="display: inline_block">
   <a href = "https://api.whatsapp.com/send?phone=5514991648334&text=Ol%C3%A1%2C%20Jonatas" target="_blank"> <img  alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jonatas.calves@gmail.com"> <img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatascaetano" target="_blank"> <img  alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonatascaetano/" target="_blank"> <img  alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://play.google.com/store/apps/developer?id=jonatas" target="_blank"> <img  alt="google play"  src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
 </div>  
 
@@ -48,7 +48,7 @@ Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em
  Pokedéx desenvolvida em flutter com consumo de Api usando Dio, Backend usando Firebase e gerência de estado usando GetX  
  clique [aqui](https://github.com/jonatascaetano/Pokedex) para conhecer este projeto
  
- ## 🖼️ Imagens do Aplicativo
+ ### 🖼️ Imagens do Aplicativo
 
 <img src="https://user-images.githubusercontent.com/59484665/191779822-fe62d095-8469-4576-9968-7f07e11aabd3.png" width="200">
 <img src="https://user-images.githubusercontent.com/59484665/191779850-4be8eba3-2218-4d81-bf9f-0c44c61a1c0f.png" width="200">
