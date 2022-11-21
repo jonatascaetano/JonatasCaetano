@@ -1,5 +1,5 @@
 
-Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em flutter, possuo conhecimento nos principais packages do framework como provider, bloc, mobx, getx, dio, http, hive, path_provider, também tenho experiencia com java e o framework spring boot, sei trabalhar com os bancos de dados mongodb e firebase.
+Sou desenvolvedor full stack com foco em desenvolvimento mobile com dart e flutter e desenvolvimento backend com java e springboot. Comecei a programar no meio de 2019.
 
 ## ☎️ Contatos
 
@@ -13,9 +13,9 @@ Sou Desenvolvedor full stack com foco em mobile com três anos de experiencia em
 ## 📈 Estatisticas
 
 <div align="start">
-<img alt="ranking languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasCaetano&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
+<img alt="ranking languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatascaetano&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
 
-  <img alt="statistics" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasCaetano&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img alt="statistics" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatascaetano&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div>
 
   
