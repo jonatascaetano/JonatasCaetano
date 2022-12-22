@@ -58,3 +58,17 @@
   <img src="https://user-images.githubusercontent.com/59484665/191779893-dc81d281-4f13-4e04-a427-380f050ab31e.png" width="200">
   <img src="https://user-images.githubusercontent.com/59484665/191779976-3b9e3ebc-2a6d-4901-983f-8dcc31d6b200.png" width="200">
 </div> 
+
+### Bundle - social network  
+
+ Uma rede social desenvolvida em flutter com o objetivo de gerenciar e compartilhar experiencias com consumo de mídia  
+ clique [aqui](https://github.com/jonatascaetano/rede-social-aplicativo) para conhecer este projeto
+ 
+ ### 🖼️ Imagens do Aplicativo
+ 
+ <div style="display: inline_block">
+<img src="https://user-images.githubusercontent.com/59484665/209180492-f6a26efd-daa7-48c7-83bf-fc9539514f58.png" width="200"> 
+<img src="https://user-images.githubusercontent.com/59484665/209180498-44a5998b-d85c-4c8d-b65d-04398befe5e4.png" width="200"> 
+<img src="https://user-images.githubusercontent.com/59484665/209180500-227e1133-7094-4b70-877b-8bf1577b078a.png" width="200"> 
+<img src="https://user-images.githubusercontent.com/59484665/209180504-28b3cda3-06ca-4486-a8b8-6a16f9a538f1.png" width="200"> 
+</div>
