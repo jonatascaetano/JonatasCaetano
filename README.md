@@ -12,11 +12,11 @@
 
 ## 📈 Estatisticas
 
-<div align="start">
+<div align="start" style="display: inline_block">
   
-<img alt="ranking languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&locale=pt-br"/>
+<img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&locale=pt-br&hide=markifile"/>
   
-<img alt="statistics" src="https://github-readme-stats.vercel.app/api?username=jonatascaetano&count_private=true&show_icons=true&locale=pt-br"/>
+<img alt="statistics" height="250px" src="https://github-readme-stats.vercel.app/api?username=jonatascaetano&count_private=true&show_icons=true&locale=pt-br"/>
 </div>
 
 ## 🚀 Técnologias
