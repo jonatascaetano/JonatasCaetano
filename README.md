@@ -50,7 +50,7 @@
  Pokedéx desenvolvida em flutter com consumo de Api usando Dio, Backend usando Firebase e gerência de estado usando GetX  
  clique [aqui](https://github.com/jonatascaetano/Pokedex) para conhecer este projeto
  
- ### 🖼️ Imagens do Aplicativo
+ #### 🖼️ Imagens do Aplicativo
  
 <div style="display: inline_block">
   <img src="https://user-images.githubusercontent.com/59484665/191779822-fe62d095-8469-4576-9968-7f07e11aabd3.png" width="200">
@@ -64,7 +64,7 @@
  Uma rede social desenvolvida em flutter com o objetivo de gerenciar e compartilhar experiencias com consumo de mídia  
  clique [aqui](https://github.com/jonatascaetano/rede-social-aplicativo) para conhecer este projeto
  
- ### 🖼️ Imagens do Aplicativo
+ #### 🖼️ Imagens do Aplicativo
  
  <div style="display: inline_block">
 <img src="https://user-images.githubusercontent.com/59484665/209180492-f6a26efd-daa7-48c7-83bf-fc9539514f58.png" width="200"> 
